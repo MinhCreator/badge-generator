@@ -10,7 +10,9 @@
 [![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "License MIT")
 </div>
 A website that allows users to create GitHub badges easily and quickly, by entering a few inputs then the badge is created instantly, copy the code and you're done!
-
+<div align="center">
+[![Open Demo](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Open Demo&color=202020&labelColor=000000&logo=Vercel)](https://badge-maker.vercel.app) [![Open Demo](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Open Demo&color=202020&labelColor=000000&logo=Cloudflare)](https://badge-gen.pages.dev)
+</div>
 ## Features
 - Fast and simple 🚀
 - Light/dark mode toggle 🌙
