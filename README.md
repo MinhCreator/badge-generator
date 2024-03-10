@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://badge-gen.pages.dev">
-        <img src="logo.png" width="128" height="128" alt="logo"/>
+        <img src="badge-generator.png" width="256" height="128" alt="Badge Generator"/>
     </a>
     <h1>Badge Generator</h1>
     <p>Simple GitHub Badge Generator for README</p>
