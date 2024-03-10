@@ -7,7 +7,7 @@
 </div>
 A website that allows users to create GitHub badges easily and quickly, by entering a few inputs then the badge is created instantly, copy the code and you're done!
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "license MIT")
 
 ## Features
 - Fast and simple 🚀
