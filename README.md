@@ -4,10 +4,12 @@
     </a>
     <h1>Badge Generator</h1>
     <p>Simple GitHub Badge Generator for README</p>
+    
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/abdipr/badge-generator?logo=star&style=flat)](https://github.com/abdipr/badge-generator/stargazers "Stars")
+[![Issues](https://custom-icon-badges.demolab.com/github/issues-raw/abdipr/badge-generator?logo=issue)](https://github.com/abdipr/badge-generator/issues "Issues")
+[![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "License MIT")
 </div>
 A website that allows users to create GitHub badges easily and quickly, by entering a few inputs then the badge is created instantly, copy the code and you're done!
-
-[![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "license MIT")
 
 ## Features
 - Fast and simple 🚀
