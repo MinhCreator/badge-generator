@@ -35,13 +35,27 @@ a {
     color: #335ddd;
 }
 .container {
-    width: 80%;
-    max-width: 500px;
-    padding: 25px;
-    border-radius: 8px;
-    background-color: #fff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.25);
-    border: solid 1px #335ddd;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.output-card {
+    order: 2;
+}
+.card {
+    margin: 20px;
+    width: calc(100vw - 50px);
+}
+@media screen and (min-width: 768px) {
+    .container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .card {
+        margin: 20px;
+        width: calc(50vw - 50px);
+        max-width: none;
+    }
 }
 .badge {
     text-align: center;
@@ -55,9 +69,7 @@ a {
 }
 .input-group sl-input,
 .input-group sl-select {
-    max-width: 600px;
     margin-top: 20px;
-    width: 100%;
 }
 .input-group sl-input::part(base),
 .input-group sl-select::part(base),
@@ -73,8 +85,6 @@ a {
     font-size: var(--sl-font-size-medium);
 }
 sl-card {
-    width: 95%;
-    max-width: 600px;
     --padding: 20px;
     margin-top: 20px;
 }
@@ -88,8 +98,6 @@ sl-card {
 }
 .output-group sl-input {
     width: 100%;
-    min-width: 80%;
-    max-width: 500px;
     margin-top: 10px;
 }
 .output-group sl-copy-button {
