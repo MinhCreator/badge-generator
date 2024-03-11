@@ -12,7 +12,7 @@
 [![CodeScene Code Health](https://codescene.io/projects/51028/status-badges/code-health)](https://codescene.io/projects/51028)
 </div>
 A website that allows users to create GitHub badges easily and quickly, by entering a few inputs then the badge is created instantly, copy the code and you're done!
-
+<br><br>
 <div align="center">
     <a href="https://badge-maker.vercel.app" target="_blank"><img alt=" Open Demo" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Open Demo&color=202020&labelColor=000000&logo=Vercel"></a>
     <a href="https://badge-gen.pages.dev" target="_blank"><img alt=" Open Demo" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Open Demo&color=202020&labelColor=000000&logo=Cloudflare"></a>
