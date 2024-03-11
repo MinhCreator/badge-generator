@@ -26,6 +26,7 @@
     <label for="themeToggle" onclick="toggleTheme()">
         <span id="themeIcon" class="material-symbols-outlined">light_mode</span>
     </label>
+  <div class="container">
     <sl-card id="generator" class="card">
         <div slot="header">
             <h2>Input</h2>
@@ -55,7 +56,7 @@
             <sl-input label="Link Target" type="text" placeholder="https://github.com" id="link" help-text="Click target to a URL or local path" oninput="updateBadge()"></sl-input>
         </div>
     </sl-card>
-    <sl-card id="generator" class="card">
+    <sl-card id="generator" class="card output-card">
         <div slot="header">
             <h2>Output</h2>
             <sl-tooltip content="Refresh">
@@ -71,6 +72,7 @@
             <sl-input type="text" label="HTML" id="badgeHTML" placeholder="HTML code" readonly></sl-input><sl-copy-button from="badgeHTML.value"> </sl-copy-button>
         </div>
     </sl-card>
+  </div>
     <br />
     <p>Made by <a href="https://github.com/abdipr" target="_blank">abdipr</a></p>
     <br />
