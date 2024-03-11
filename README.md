@@ -8,6 +8,7 @@
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/abdipr/badge-generator?logo=star&style=flat)](https://github.com/abdipr/badge-generator/stargazers "Stars")
 [![Issues](https://custom-icon-badges.demolab.com/github/issues-raw/abdipr/badge-generator?logo=issue)](https://github.com/abdipr/badge-generator/issues "Issues")
 [![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "License MIT")
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8648/badge)](https://www.bestpractices.dev/projects/8648)
 </div>
 A website that allows users to create GitHub badges easily and quickly, by entering a few inputs then the badge is created instantly, copy the code and you're done!
 
@@ -26,4 +27,4 @@ A website that allows users to create GitHub badges easily and quickly, by enter
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![Simple Icons Badge](https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=flat) [![Shoelace Style](https://custom-icon-badges.demolab.com/badge/Shoelace-2.14.0-409EFF?style=flat&logo=shoelace&logoColor=white)](https://shoelace.style) ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat) ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
 
 ## Feedback & Support
-For feedback and support, please <a href="https://github.com/abdipr/badge-generator/issues/new" target="_blank"><img alt="Open New Issue" src="https://custom-icon-badges.demolab.com/badge/Open New Issue-red.svg?logo=issue-opened&logoColor=fff"></a>.
+For feedback and support, please <a href="https://github.com/abdipr/badge-generator/issues/new" target="_blank">open new issue</a>.
