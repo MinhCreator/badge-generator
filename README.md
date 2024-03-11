@@ -7,8 +7,9 @@
     
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/abdipr/badge-generator?logo=star&style=flat)](https://github.com/abdipr/badge-generator/stargazers "Stars")
 [![Issues](https://custom-icon-badges.demolab.com/github/issues-raw/abdipr/badge-generator?logo=issue)](https://github.com/abdipr/badge-generator/issues "Issues")
-[![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "License MIT")
+[![MIT License](https://custom-icon-badges.demolab.com/github/license/abdipr/badge-generator?logo=law&logoColor=white)](https://github.com/abdipr/badge-generator/blob/main/LICENSE "License MIT")<br>
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8648/badge)](https://www.bestpractices.dev/projects/8648)
+[![CodeScene Code Health](https://codescene.io/projects/51028/status-badges/code-health)](https://codescene.io/projects/51028)
 </div>
 A website that allows users to create GitHub badges easily and quickly, by entering a few inputs then the badge is created instantly, copy the code and you're done!
 
