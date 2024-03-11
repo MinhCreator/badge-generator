@@ -57,6 +57,7 @@ a {
         max-width: none;
     }
 }
+
 .badge {
     text-align: center;
     margin-top: 20px;
@@ -64,13 +65,28 @@ a {
 }
 .input-group {
     margin-bottom: 2.5px;
-    display: block;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
+
 .input-group sl-input,
 .input-group sl-select {
+    flex-grow: 1;
     margin-top: 20px;
+    max-width: calc(100% - 10px);
 }
+
+@media screen and (min-width: 768px) {
+    .input-group sl-input,
+    .input-group sl-select {
+        align-items: center;
+        margin-bottom: 10px;
+        max-width: calc(50% - 10px);
+    }
+}
+
 .input-group sl-input::part(base),
 .input-group sl-select::part(base),
 .input-group sl-option::part(base) {
