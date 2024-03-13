@@ -1,11 +1,19 @@
-@import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/components/input/input.css");
-@import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/components/select/select.css");
-@import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/components/option/option.css");
-@import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/components/card/card.css");
-@import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/components/copy-button/copy-button.css");
 @import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0");
 @import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/themes/light.css");
 @import url("https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.14.0/cdn/themes/dark.css");
+:root {
+  --sl-color-primary-50: var(--sl-color-indigo-50);
+  --sl-color-primary-100: var(--sl-color-indigo-100);
+  --sl-color-primary-200: var(--sl-color-indigo-200);
+  --sl-color-primary-300: var(--sl-color-indigo-300);
+  --sl-color-primary-400: var(--sl-color-indigo-400);
+  --sl-color-primary-500: var(--sl-color-indigo-500);
+  --sl-color-primary-600: var(--sl-color-indigo-600);
+  --sl-color-primary-700: var(--sl-color-indigo-700);
+  --sl-color-primary-800: var(--sl-color-indigo-800);
+  --sl-color-primary-900: var(--sl-color-indigo-900);
+  --sl-color-primary-950: var(--sl-color-indigo-950);
+}
 
 body {
     opacity: 0;
@@ -118,21 +126,6 @@ sl-card {
 }
 .output-group sl-copy-button {
     margin-top: 30px;
-}
-.copy-button {
-    margin-top: 10px;
-    margin-left: 10px;
-    padding: 10px;
-    background-color: #4caf50;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    width: 100%;
-    max-width: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 .copy-button span {
     font-size: 25px;
