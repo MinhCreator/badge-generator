@@ -24,7 +24,7 @@ A website that allows users to create GitHub badges easily and quickly, by enter
 - Live previews 🔴
 - Markdown & HTML code copy 📝
 
-## Tech Used
+## Tech Stack
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![Shields.io Badge](https://img.shields.io/badge/Shields.io-000?logo=shieldsdotio&logoColor=fff&style=flat) ![Simple Icons Badge](https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=flat) [![Shoelace Style](https://custom-icon-badges.demolab.com/badge/Shoelace-2.14.0-409EFF?style=flat&logo=shoelace&logoColor=white)](https://shoelace.style) ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat) ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
 
 ## Feedback & Support
